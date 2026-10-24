@@ -2,4 +2,6 @@ numpy
 sympy
 matplotlib
 jupyterlab
+ipywidgets
+nbconvert
 pytest

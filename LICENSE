@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 sezinpersonal
+Copyright (c) 2026 Muhammed İkbal Yılmaz
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This license covers the code, notes and figures of this repository. It does not cover Tom M. Apostol's books
+"Calculus, Volume 1" and "Calculus, Volume 2" (John Wiley & Sons), whose copyright belongs to the author and the
+publisher; the books are not reproduced here and should be obtained from the publisher.
